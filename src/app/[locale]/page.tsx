@@ -1,9 +1,15 @@
-import MissionAndExpertise from "../../components/missionAndExpertise";
+import MissionAndExpertise from "@/components/home/missionSection/missionAndExpertise";
+import { ServicesSection } from "@/components/home/services/Grid";
+import { QuoteSection } from "@/components/home/services/Quote";
+
 export default function Home() {
-    return (
-        <main className="flex w-full font-sans text-white flex-col items-center justify-between py-32 px-16 bg-black sm:items-start">
-            {/* <h1>Welcome to Axon</h1> */}
-            <MissionAndExpertise />
-        </main>
-    );
+  return (
+    <div className="bg-black min-h-screen text-white">
+      <main>
+        <MissionAndExpertise/>
+        <ServicesSection />
+        <QuoteSection />
+      </main>
+    </div>
+  );
 }
