@@ -1,5 +1,20 @@
 {
-  "HomePage": {
-    "title": "اهلا عالم!"
-  }
+    "HomePage": {
+        "missionAndExpertiseTitle": "مهمتنا وخبرتنا",
+        "missionAndExpertiseDescription": "نحن مجموعة من المهندسين والتصميماء المعتزلين المحترفين لبناء برامج تنفسية ومناسبة الأعمال.",
+        "title": "حول اكسون",
+        "cardOneTitle": "ملتزمون بتحقيق مهمتنا",
+        "cardOneDescription": "نواكب تقنياتنا مع أهداف عملك لضمان أعلى عائد على الاستثمار.",
+        "cardTwoTitle": "مهندسون خبراء",
+        "cardTwoDescription": "خبرة تقنية عميقة عبر أحدث التقنيات، من React إلى Rust.",
+        "cardThreeTitle": "مواكب للمستقبل",
+        "cardThreeDescription": "نعمل عن كثب مع العملاء لفهم احتياجاتهم وتصميم حلولنا بما يتناسب معها.",
+        "EfficencyTitleOne": "الكفاءة على",
+        "EfficencyTitleTwo": "التعقيد",
+        "EfficencyParOneTitle": "فلسفتنا",
+        "EfficencyParOneDescription": "نؤمن أن أقوى الحلول غالبًا ما تكون الأبسط. في Nexus Dev، نزيل الضوضاء غير الضرورية للتركيز على الأداء الأساسي والهندسة المرتكزة على المستخدم.",
+        "EfficencyParTwoTitle": "نهجنا",
+        "EfficencyParTwoDescription": "نهجنا يقوم على الاعتمادية والحرفية العالية، لضمان أن كل سطر برمجي يخدم أهداف نمو أعمالك. نولي الأولوية لعقلية \"أجايل أولاً\" في كل دورة تطوير.",
+        "EfficencyButton": "اكتشف المزيد عن مهمتنا"
+    }
 }

@@ -1,3 +1,4 @@
+import Effeciency from "@/components/home/effeciencySection.tsx/Effeciency";
 import MissionAndExpertise from "@/components/home/missionSection/missionAndExpertise";
 import { ServicesSection } from "@/components/home/services/Grid";
 import { QuoteSection } from "@/components/home/services/Quote";
@@ -7,6 +8,7 @@ export default function Home() {
     <div className="bg-black min-h-screen text-white">
       <main>
         <MissionAndExpertise/>
+        <Effeciency/>
         <ServicesSection />
         <QuoteSection />
       </main>

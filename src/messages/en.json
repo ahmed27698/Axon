@@ -1,5 +1,20 @@
 {
   "HomePage": {
-    "title": "Hello world!"
+    "missionAndExpertiseTitle": "Our Mission & Expertise",
+    "missionAndExpertiseDescription": "We are a team of passionate engineers and designers dedicated to building scalable, high-performance software that drives business growth.",
+    "title":"About AXON",
+    "cardOneTitle":"Mission-Driven",
+    "cardOneDescription":"We align our technology with your business goals to ensure maximum ROI.",
+    "cardTwoTitle":"Expert Engineers",
+    "cardTwoDescription":"Deep technical expertise across modern stacks, from React to Rust.",
+    "cardThreeTitle":"Future-Proof",
+    "cardThreeDescription":"Building modular solutions that scale seamlessly with your success.",
+    "EfficencyTitleOne":"Efficiency over",
+    "EfficencyTitleTwo":"Complexity",
+    "EfficencyParOneTitle":"Our Philosophy",
+    "EfficencyParOneDescription":"We believe that the most powerful solutions are often the simplest. At Nexus Dev, we strip away the unnecessary noise to focus on core performance and user-centric engineering.",
+    "EfficencyParTwoTitle":"Our Approach",
+    "EfficencyParTwoDescription":"Our approach is rooted in dependability and high-end craftsmanship, ensuring that every line of code serves a purpose in your business growth. We prioritize the \"Agile-First\" mentality in every sprint.",
+    "EfficencyButton":"Learn more about our mission"
   }
 }
