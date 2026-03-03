@@ -9,7 +9,7 @@ export default function Effeciency() {
                 alt="Effeciency Gif"
                 width={400}
                 height={600}
-                className="w-full lg:w-8/12"
+                className="w-full lg:w-8/12 rounded-4xl"
             />
             <div className="flex flex-col gap-7 w-full">
                 <h2 className="lg:text-5xl text-3xl font-bold">
