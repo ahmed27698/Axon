@@ -21,7 +21,6 @@ export default function Navbar() {
       <div className=" px-4 md:px-6 lg:px-16 py-2 flex justify-between items-center">
         <Link href="/" className="flex lg:flex-col items-center gap-1">
           <Image src="/logo.png" width={100} height={100} alt="logo" />
-
         </Link>
 
         <div className="hidden md:flex space-x-6">

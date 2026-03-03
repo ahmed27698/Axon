@@ -1,6 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
-import wave from "../../public/Wave.gif";
+import wave from "../../../public/Wave.gif";
 
 export default function Hero() {
 

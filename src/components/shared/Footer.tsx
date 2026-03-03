@@ -50,7 +50,7 @@ export default function Footer() {
 
         {sections.map((section) => (
           <div key={section.title}>
-            <h3 className="text-white text-xs tracking-widest uppercase mb-6">
+            <h3 className="text-white text-xs font-semibold tracking-widest uppercase mb-6">
               {section.title}
             </h3>
             <ul className="space-y-4 text-sm">
@@ -58,7 +58,7 @@ export default function Footer() {
                 <li key={link.text}>
                   <Link
                     href={link.href}
-                    className="hover:text-white duration-300 inline-block transition-transform hover:translate-x-1"
+                    className="hover:text-white font-sans duration-300 inline-block transition-transform hover:translate-x-1.5"
                   >
                     {link.text}
                   </Link>
@@ -69,7 +69,7 @@ export default function Footer() {
         ))}
 
         <div>
-          <h3 className="text-white text-xs tracking-widest uppercase mb-6">
+          <h3 className="text-white text-xs font-semibold tracking-widest uppercase mb-6">
             Headquarters
           </h3>
 
