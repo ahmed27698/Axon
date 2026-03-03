@@ -1,20 +1,56 @@
 {
-    "HomePage": {
-        "missionAndExpertiseTitle": "مهمتنا وخبرتنا",
-        "missionAndExpertiseDescription": "نحن مجموعة من المهندسين والتصميماء المعتزلين المحترفين لبناء برامج تنفسية ومناسبة الأعمال.",
-        "title": "حول اكسون",
-        "cardOneTitle": "ملتزمون بتحقيق مهمتنا",
-        "cardOneDescription": "نواكب تقنياتنا مع أهداف عملك لضمان أعلى عائد على الاستثمار.",
-        "cardTwoTitle": "مهندسون خبراء",
-        "cardTwoDescription": "خبرة تقنية عميقة عبر أحدث التقنيات، من React إلى Rust.",
-        "cardThreeTitle": "مواكب للمستقبل",
-        "cardThreeDescription": "نعمل عن كثب مع العملاء لفهم احتياجاتهم وتصميم حلولنا بما يتناسب معها.",
-        "EfficencyTitleOne": "الكفاءة على",
-        "EfficencyTitleTwo": "التعقيد",
-        "EfficencyParOneTitle": "فلسفتنا",
-        "EfficencyParOneDescription": "نؤمن أن أقوى الحلول غالبًا ما تكون الأبسط. في Nexus Dev، نزيل الضوضاء غير الضرورية للتركيز على الأداء الأساسي والهندسة المرتكزة على المستخدم.",
-        "EfficencyParTwoTitle": "نهجنا",
-        "EfficencyParTwoDescription": "نهجنا يقوم على الاعتمادية والحرفية العالية، لضمان أن كل سطر برمجي يخدم أهداف نمو أعمالك. نولي الأولوية لعقلية \"أجايل أولاً\" في كل دورة تطوير.",
-        "EfficencyButton": "اكتشف المزيد عن مهمتنا"
-    }
+  "Navbar": {
+    "home": "الرئيسية",
+    "about": "من نحن",
+    "services": "خدماتنا",
+    "contact": "تواصل معنا",
+    "startProject": "ابدأ مشروعك"
+  },
+  "HomePage": {
+    "Hero": {
+      "badge": "حلول ذكاء اصطناعي متكاملة",
+      "titleLineOne": "برمجيات تنمو",
+      "titleLineTwo": "بطموحك",
+      "description": "نقوم ببناء حلول رقمية مخصصة لحل تحديات الأعمال المعقدة من خلال هندسة عالية الأداء وأنيقة.",
+      "primaryButton": "ابدأ مشروعك",
+      "secondaryButton": "استكشف الحلول",
+      "stats": {
+        "failureRate": "معدل فشل المشاريع",
+        "successIncrease": "زيادة معدل النجاح",
+        "enterpriseDeploys": "نشر مؤسسي",
+        "avgCycle": "متوسط دورة النموذج الأولي"
+      }
+    },
+    "missionAndExpertiseTitle": "مهمتنا وخبرتنا",
+    "missionAndExpertiseDescription": "نحن مجموعة من المهندسين والتصميماء المعتزلين المحترفين لبناء برامج تنفسية ومناسبة الأعمال.",
+    "title": "حول اكسون",
+    "cardOneTitle": "ملتزمون بتحقيق مهمتنا",
+    "cardOneDescription": "نواكب تقنياتنا مع أهداف عملك لضمان أعلى عائد على الاستثمار.",
+    "cardTwoTitle": "مهندسون خبراء",
+    "cardTwoDescription": "خبرة تقنية عميقة عبر أحدث التقنيات، من React إلى Rust.",
+    "cardThreeTitle": "مواكب للمستقبل",
+    "cardThreeDescription": "نعمل عن كثب مع العملاء لفهم احتياجاتهم وتصميم حلولنا بما يتناسب معها.",
+    "EfficencyTitleOne": "الكفاءة على",
+    "EfficencyTitleTwo": "التعقيد",
+    "EfficencyParOneTitle": "فلسفتنا",
+    "EfficencyParOneDescription": "نؤمن أن أقوى الحلول غالبًا ما تكون الأبسط. في Nexus Dev، نزيل الضوضاء غير الضرورية للتركيز على الأداء الأساسي والهندسة المرتكزة على المستخدم.",
+    "EfficencyParTwoTitle": "نهجنا",
+    "EfficencyParTwoDescription": "نهجنا يقوم على الاعتمادية والحرفية العالية، لضمان أن كل سطر برمجي يخدم أهداف نمو أعمالك. نولي الأولوية لعقلية \"أجايل أولاً\" في كل دورة تطوير.",
+    "EfficencyButton": "اكتشف المزيد عن مهمتنا"
+  },
+  "Footer": {
+    "description": "نعمل عالميًا وبنظام العمل عن بعد. تطوير برمجيات عالية المستوى للشركات الطموحة والشركات الناشئة سريعة النمو.",
+    "solutions": "الحلول",
+    "company": "الشركة",
+    "headquarters": "المقر الرئيسي",
+    "customSoftware": "برمجيات مخصصة",
+    "cloudInfrastructure": "بنية سحابية",
+    "aiStrategy": "استراتيجية الذكاء الاصطناعي والبيانات",
+    "devops": "DevOps و SRE",
+    "about": "من نحن",
+    "caseStudies": "دراسات حالة",
+    "blog": "مدونة هندسية",
+    "careers": "الوظائف",
+    "copyright": "© 2024 Nexus Dev. جميع الحقوق محفوظة."
+  }
 }

@@ -1,20 +1,56 @@
 {
+  "Navbar": {
+    "home": "Home",
+    "about": "About Us",
+    "services": "Services",
+    "contact": "Contact",
+    "startProject": "Start Your Project"
+  },
   "HomePage": {
+    "Hero": {
+      "badge": "Full-Stack AI Solutions",
+      "titleLineOne": "Software That Scales",
+      "titleLineTwo": "With Your Ambition",
+      "description": "We build custom digital solutions that solve complex business challenges through elegant, high-performance engineering.",
+      "primaryButton": "Start Your Project",
+      "secondaryButton": "Explore Solutions",
+      "stats": {
+        "failureRate": "PROJECT FAILURE RATE",
+        "successIncrease": "SUCCESS RATE INCREASE",
+        "enterpriseDeploys": "ENTERPRISE DEPLOYS",
+        "avgCycle": "AVG. POC CYCLE"
+      }
+    },
     "missionAndExpertiseTitle": "Our Mission & Expertise",
     "missionAndExpertiseDescription": "We are a team of passionate engineers and designers dedicated to building scalable, high-performance software that drives business growth.",
-    "title":"About AXON",
-    "cardOneTitle":"Mission-Driven",
-    "cardOneDescription":"We align our technology with your business goals to ensure maximum ROI.",
-    "cardTwoTitle":"Expert Engineers",
-    "cardTwoDescription":"Deep technical expertise across modern stacks, from React to Rust.",
-    "cardThreeTitle":"Future-Proof",
-    "cardThreeDescription":"Building modular solutions that scale seamlessly with your success.",
-    "EfficencyTitleOne":"Efficiency over",
-    "EfficencyTitleTwo":"Complexity",
-    "EfficencyParOneTitle":"Our Philosophy",
-    "EfficencyParOneDescription":"We believe that the most powerful solutions are often the simplest. At Nexus Dev, we strip away the unnecessary noise to focus on core performance and user-centric engineering.",
-    "EfficencyParTwoTitle":"Our Approach",
-    "EfficencyParTwoDescription":"Our approach is rooted in dependability and high-end craftsmanship, ensuring that every line of code serves a purpose in your business growth. We prioritize the \"Agile-First\" mentality in every sprint.",
-    "EfficencyButton":"Learn more about our mission"
+    "title": "About AXON",
+    "cardOneTitle": "Mission-Driven",
+    "cardOneDescription": "We align our technology with your business goals to ensure maximum ROI.",
+    "cardTwoTitle": "Expert Engineers",
+    "cardTwoDescription": "Deep technical expertise across modern stacks, from React to Rust.",
+    "cardThreeTitle": "Future-Proof",
+    "cardThreeDescription": "Building modular solutions that scale seamlessly with your success.",
+    "EfficencyTitleOne": "Efficiency over",
+    "EfficencyTitleTwo": "Complexity",
+    "EfficencyParOneTitle": "Our Philosophy",
+    "EfficencyParOneDescription": "We believe that the most powerful solutions are often the simplest. At Nexus Dev, we strip away the unnecessary noise to focus on core performance and user-centric engineering.",
+    "EfficencyParTwoTitle": "Our Approach",
+    "EfficencyParTwoDescription": "Our approach is rooted in dependability and high-end craftsmanship, ensuring that every line of code serves a purpose in your business growth. We prioritize the \"Agile-First\" mentality in every sprint.",
+    "EfficencyButton": "Learn more about our mission"
+  },
+  "Footer": {
+    "description": "Operating Globally & Remote-First. High-end software development for ambitious enterprises and fast-growing startups.",
+    "solutions": "Solutions",
+    "company": "Company",
+    "headquarters": "Headquarters",
+    "customSoftware": "Custom Software",
+    "cloudInfrastructure": "Cloud Infrastructure",
+    "aiStrategy": "AI & Data Strategy",
+    "devops": "DevOps & SRE",
+    "about": "About Us",
+    "caseStudies": "Case Studies",
+    "blog": "Engineering Blog",
+    "careers": "Careers",
+    "copyright": "© 2024 Nexus Dev. All rights reserved."
   }
 }
