@@ -6,6 +6,7 @@ import { motion, AnimatePresence } from "framer-motion";
 import Link from "next/link";
 import Image from "next/image";
 import { useTranslations } from "next-intl";
+import logo from "../../../public/logo.png"
 
 export default function Navbar() {
   const t = useTranslations("Navbar");
@@ -21,8 +22,9 @@ export default function Navbar() {
   return (
     <nav className="fixed left-0 top-0 w-full z-50 bg-black">
       <div className=" px-4 md:px-6 lg:px-16 py-2 flex justify-between items-center">
-        <Link href="/" className="flex lg:flex-col items-center gap-1">
-          <Image src="/logo.png" width={100} height={100} alt="logo" />
+        <Link href="/" className="flex items-center gap-1 md:gap-2">
+          <Image priority src={logo} width={25} height={25} alt="logo" />
+          <span className="text-white font-semibold text-[17px] md:text-[20px]">AxonDev</span>
         </Link>
 
         <div className="hidden md:flex space-x-6">

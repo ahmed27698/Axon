@@ -2,6 +2,7 @@ import Link from "next/link";
 import { Globe, AtSign, Share2 } from "lucide-react";
 import Image from "next/image";
 import { useTranslations } from "next-intl";
+import logo from "../../../public/logo.png"
 
 export default function Footer() {
   const t = useTranslations("Footer");
@@ -32,7 +33,10 @@ export default function Footer() {
       <div className="max-w-7xl mx-auto px-6 py-16 grid grid-cols-1 md:grid-cols-4 gap-12">
 
         <div className="space-y-6">
-          <Image src="/logo.png" width={150} height={100} alt="logo" />
+          <div className="flex items-center gap-2">
+            <Image src={logo} width={35} height={35} alt="logo" />
+            <span className="text-white font-semibold text-2xl">AxonDev</span>
+          </div>
 
           <p className="text-sm leading-relaxed text-gray-500">
             {t("description")}
