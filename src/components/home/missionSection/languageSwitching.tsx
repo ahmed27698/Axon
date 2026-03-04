@@ -7,7 +7,7 @@ import {
     DropdownMenuItem,
     DropdownMenuLabel,
     DropdownMenuTrigger,
-} from "../../../../components/ui/dropdown-menu";
+} from "../../../../components/ui/DropdownMenu";
 
 import { useRouter } from "next/navigation";
 import { useLocale } from "next-intl";
