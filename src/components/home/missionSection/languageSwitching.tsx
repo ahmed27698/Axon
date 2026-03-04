@@ -1,6 +1,5 @@
 "use client";
 
-import { Button } from "../../../../components/ui/button";
 import {
     DropdownMenu,
     DropdownMenuContent,
@@ -25,12 +24,11 @@ export default function LanguageSwitching() {
     return (
         <DropdownMenu>
             <DropdownMenuTrigger asChild>
-                <Button
+                <button
                     className="text-black hover:text-[#615FFF] w-30"
-                    variant="outline"
                 >
                     {currentLocale === "en" ? "English" : "Arabic"}
-                </Button>
+                </button>
             </DropdownMenuTrigger>
             <DropdownMenuContent>
                 <DropdownMenuGroup>
