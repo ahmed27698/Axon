@@ -5,7 +5,7 @@ import {
     Carousel,
     CarouselContent,
     CarouselItem,
-} from "../../../../components/ui/carousel";
+} from "../../../../components/ui/Carousell";
 
 export default function MissionAndExpertise() {
     const t = useTranslations("HomePage");

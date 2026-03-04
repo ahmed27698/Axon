@@ -12,6 +12,7 @@ import {
 import { useRouter } from "next/navigation";
 import { useLocale } from "next-intl";
 import { routing } from "../../../i18n/routing";
+import { Button } from "../../../../components/ui/Buttonn";
 
 export default function LanguageSwitching() {
     const router = useRouter();
@@ -24,11 +25,11 @@ export default function LanguageSwitching() {
     return (
         <DropdownMenu>
             <DropdownMenuTrigger asChild>
-                <button
+                <Button
                     className="text-black hover:text-[#615FFF] w-30"
                 >
                     {currentLocale === "en" ? "English" : "Arabic"}
-                </button>
+                </Button>
             </DropdownMenuTrigger>
             <DropdownMenuContent>
                 <DropdownMenuGroup>
